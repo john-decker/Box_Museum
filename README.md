@@ -1,5 +1,5 @@
 # Box Project
-The scripts here are for the final project for Info 697 at Pratt Institute
+The scripts here are for a version of a Museum in a Box
 
 Files:
 
